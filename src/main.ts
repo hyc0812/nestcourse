@@ -6,3 +6,6 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+// npm run build && npm run start:dev 
+// to accept changes
